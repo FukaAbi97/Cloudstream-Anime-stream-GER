@@ -3,5 +3,10 @@
   "type": "tv",
   "url": "https://anime-stream.to",
   "language": "de",
-  "isNSFW": false
+  "isNSFW": false,
+  "api_endpoints": {
+    "anime_list": "https://anime-stream.to/api/animes", 
+    "episodes": "https://anime-stream.to/api/episodes",
+    "stream_links": "https://anime-stream.to/api/streams"
+  }
 }
