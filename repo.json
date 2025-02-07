@@ -2,7 +2,7 @@
   "name": "Cloudstream-Anime-stream-GER",
   "version": 1,
   "background": "#000000",
-  "icon": "https://github.com/FukaAbi97/Cloudstream-Anime-stream-GER/blob/main/icons/logo.png"
+  "icon": "https://raw.githubusercontent.com/FukaAbi97/Cloudstream-Anime-stream-GER/main/icons/logo.png",
   "apps": [
     {
       "name": "Anime Stream",
