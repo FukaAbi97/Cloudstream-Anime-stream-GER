@@ -1,0 +1,13 @@
+{
+  "name": "Anime Stream Repo",
+  "description": "Ein Repository für Cloudstream mit deutschen Anime-Streams",
+  "developer": "DeinName",
+  "icon": "https://example.com/icon.png",
+  "background": "https://example.com/background.png",
+  "languages": ["de"],
+  "website": "https://github.com/DeinUsername/cloudstream-anime-source",
+  "categories": ["Anime", "Streaming"],
+  "repos": [
+    "https://raw.githubusercontent.com/DeinUsername/cloudstream-anime-source/main/streams/anime_stream.json"
+  ]
+}
