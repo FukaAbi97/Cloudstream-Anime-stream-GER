@@ -1,13 +1,14 @@
 {
-  "name": "Anime Stream Repo",
-  "description": "Ein Repository für Cloudstream mit deutschen Anime-Streams",
-  "developer": "FukaAbi97",
-  "icon": "https://example.com/icon.png",
-  "background": "https://example.com/background.png",
-  "languages": ["de"],
-  "website": "https://github.com/FukaAbi97/Cloudstream-Anime-stream-GER",
-  "categories": ["Anime", "Streaming"],
-  "repos": [
-    "https://raw.githubusercontent.com/FukaAbi97/Cloudstream-Anime-stream-GER/main/repo.json"
+  "name": "Deutsches Anime Repo",
+  "version": 1,
+  "background": "#000000",
+  "icon": "https://your-icon-url.com/icon.png",
+  "apps": [
+    {
+      "name": "Anime Stream",
+      "package": "com.example.anime",
+      "source": "https://raw.githubusercontent.com/FukaAbi97/Cloudstream-Anime-stream-GER/main/streams/anime_stream.json",
+      "type": "extension"
+    }
   ]
 }
