@@ -5,9 +5,9 @@
   "icon": "https://example.com/icon.png",
   "background": "https://example.com/background.png",
   "languages": ["de"],
-  "website": "https://github.com/FukaAbi97/cloudstream-anime-source",
+  "website": "https://github.com/FukaAbi97/Cloudstream-Anime-stream-GER",
   "categories": ["Anime", "Streaming"],
   "repos": [
-    "https://raw.githubusercontent.com/FukaAbi97/cloudstream-anime-source/main/streams/anime_stream.json"
+    "https://raw.githubusercontent.com/FukaAbi97/neCloudstream-Anime-stream-GER/main/streams/anime_stream.json"
   ]
 }
