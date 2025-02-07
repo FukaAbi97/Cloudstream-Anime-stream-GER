@@ -6,7 +6,7 @@
   "apps": [
     {
       "name": "Anime Stream",
-      "package": "com.example.anime",
+      "package": "com.fukaabi97.cloudstream.anime",
       "source": "https://raw.githubusercontent.com/FukaAbi97/Cloudstream-Anime-stream-GER/main/streams/anime_stream.json",
       "type": "extension"
     }
